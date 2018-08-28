@@ -1,0 +1,86 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 7.4.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 명령 줄 히스토리 (새것부터 오래된 것 순):
+:wq
+:q
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+"0	LINE	0
+	print os.uname()
+"1	LINE	0
+	print "1"
+	print "2"
+	print "3"
+	print "4"
+""-	CHAR	0
+	str
+
+# 파일 마크:
+'0  6  29  ~/batchTest2.py
+'1  10  0  ~/batchTest2.py
+'2  1  0  ~/batchTest2.py
+'3  4  0  ~/batchTest.py
+
+# 점프목록 (새것이 먼저):
+-'  6  29  ~/batchTest2.py
+-'  10  0  ~/batchTest2.py
+-'  1  0  ~/batchTest2.py
+-'  4  0  ~/batchTest.py
+-'  1  0  ~/batchTest.py
+-'  4  0  ~/batchTest.py
+-'  1  0  ~/batchTest.py
+-'  4  0  ~/batchTest.py
+-'  1  0  ~/batchTest.py
+-'  4  0  ~/batchTest.py
+-'  1  0  ~/batchTest.py
+-'  4  0  ~/batchTest.py
+-'  1  0  ~/batchTest.py
+-'  4  0  ~/batchTest.py
+-'  1  0  ~/batchTest.py
+-'  4  0  ~/batchTest.py
+-'  1  0  ~/batchTest.py
+-'  4  0  ~/batchTest.py
+-'  1  0  ~/batchTest.py
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/batchTest2.py
+	"	6	29
+	^	6	30
+	.	6	29
+	+	1	0
+	+	6	5
+	+	7	0
+	+	4	8
+	+	6	11
+	+	5	0
+	+	7	0
+	+	8	3
+	+	4	7
+	+	6	13
+	+	8	17
+	+	10	0
+	+	8	19
+	+	9	12
+	+	6	29
+
+> ~/batchTest.py
+	"	4	0
+	^	4	9
+	.	4	8
+	+	4	8
